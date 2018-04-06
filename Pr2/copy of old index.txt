@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>L. Garcia Index 2017</title>
+
+    <!-- Bootstrap -->
+    <link href="bootstrap.min.css" rel="stylesheet">
+      
+      <link href="cover.css" rel="stylesheet">
+      <link href="2-col-portfolio.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">The Last Dimension</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li class="active"><a href="#">Home</a></li>
+                  <li><a href="#">Tunes</a></li>
+                  <li><a href="#">eLibrary</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Lukas Garcia</h1>
+            <p class="lead">Projects for Internet Computing class.</p>
+<!--
+            <p class="lead">
+              <a href="#" class="btn btn-lg btn-default">Learn more</a>
+            </p>
+-->
+  <!-- Projects Row 1 -->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://banknxt.com/wp-content/uploads/2016/03/Joi-Ito-is-concerned-about-the-future-of-bitcoin-and-blockchain.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project One</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://ste.india.com/sites/default/files/2015/08/10/389392-ro.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Two</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="https://www.maritzcx.com/blog/wp-content/uploads/2015/05/photo-1423753623104-718aaace6772-700x400.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Three</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+        </div>
+    <!--End of row 1 -->
+              
+    <!-- Projects Row 2 -->
+        <div class="row">
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://ste.india.com/sites/default/files/2015/06/09/366668-rob-1.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Four</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="https://images.intelligentinvestor.com.au/w827-h465-cfill/images/blog/blog_blockchain.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Five</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+            <div class="col-md-4 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://ste.india.com/sites/default/files/2016/08/17/520108-nasa-robotics.jpg" alt="">
+                </a>
+                <h3>
+                    <a href="#">Project Six</a>
+                </h3>
+                <p>[Under Construction]</p>
+            </div>
+        </div>
+      <!--End of row 2 -->
+          </div>
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Follow me on instagram <a href="https://twitter.com/mdo">@thyarthou</a>.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="bootstrap.min.js"></script>
+      
+  </body>
+</html>
